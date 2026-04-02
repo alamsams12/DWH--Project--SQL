@@ -1,0 +1,1 @@
+A beginner-friendly SQL Data Warehouse project demonstrating ETL processes, data modeling (star schema), and analytical querying for business insights. Includes data extraction, transformation, loading, and optimized queries for reporting and decision-making.
